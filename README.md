@@ -1,2 +1,2 @@
-# Responsive-Portfolio
-Coding Boot Camp HW Assignment
+# Basic-Portfolio
+HW Assignment For NU Coding Boot Camp
